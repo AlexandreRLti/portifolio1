@@ -60,7 +60,7 @@ section .container {
 }
 
 section {
-    padding: 24px 0;
+    padding: 20px 0;
 }
 
 section h2 {
@@ -72,7 +72,7 @@ section {
 }
 
 section p {
-    margin-bottom: 8px;
+    margin-bottom: 10px;
 }
 
 .store-front {
@@ -109,6 +109,8 @@ footer {
     color: #ecf0f1;
     padding: 16px 0;
 }
-.foto-perfil img {
-    width: 250px;
+.store-front {
+    /*height: 160px;*/
+    width: 20%;
+    border-radius: 20%;
 }
