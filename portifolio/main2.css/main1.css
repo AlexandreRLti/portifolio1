@@ -60,7 +60,7 @@ section .container {
 }
 
 section {
-    padding: 20px 0;
+    padding: 25px 0;
 }
 
 section h2 {
@@ -73,6 +73,12 @@ section {
 
 section p {
     margin-bottom: 10px;
+}
+.foto-pf {
+    /*height: 180px;*/
+    width: 20%;
+    border-radius: 20%;
+    margin: 25px;
 }
 
 .store-front {
@@ -100,17 +106,9 @@ section p {
     display: flex;
     justify-content: space-between;
 }
-.proj-x {
-    display: flex;
-    justify-content: space-between;
-}
+
 footer {
     background-color: #000000;
     color: #ecf0f1;
     padding: 16px 0;
-}
-.store-front {
-    /*height: 160px;*/
-    width: 20%;
-    border-radius: 20%;
 }
